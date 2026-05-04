@@ -1,10 +1,15 @@
-# DeepHistory Code Release
+# DeepHistory Eval Code Release
 
 This directory contains the public replication code for the DeepHistory
 experiments.
 
+To replicate the production of the Dataset itself, 
+please refer to https://github.com/Assemblage-Dataset/Assemblage
+
 Please download dataset from https://huggingface.co/datasets/changliu8541/assemblage-deephistory 
 before running experiments
+
+
 
 ## Contents
 
